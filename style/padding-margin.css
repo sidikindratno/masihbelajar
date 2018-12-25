@@ -1,0 +1,29 @@
+a:link{
+	color:orange;
+}
+a:visited {
+	color:green;
+}
+a:hover {
+	color:red;
+}
+a:active {
+	color:yellow;
+}
+.kiri {
+	outline-style:solid;
+	background-color:orange;
+outline-width:auto;
+	
+}
+
+.kotak {
+	position:relative;
+	top:120px;
+	background-color:green;
+}
+th,td, table {
+	border:1px solid green;
+	border-collapse:collapse;
+	
+}
